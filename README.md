@@ -1,4 +1,4 @@
-# absolute-convergent-series-can-be-reordered
+# absolutely-convergent-series-can-be-reordered
 
 ## 主結果
 $\sum a_n,  a_n \in \mathbb{C}$ が絶対収束するなら
