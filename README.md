@@ -1,7 +1,7 @@
 # absolute-convergent-series-can-be-reordered
 
 ## 主結果
-$\sum a_n, \quad a_n \in \mathbb{C}$ が絶対収束するなら
+$\sum a_n, \, a_n \in \mathbb{C}$ が絶対収束するなら
 
 任意の置換 $\sigma: \mathbb{N} \rightarrow \mathbb{N}$ について
 
