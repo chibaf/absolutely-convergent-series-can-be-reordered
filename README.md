@@ -7,7 +7,7 @@ $\sum a_n,  a_n \in \mathbb{C}$ が絶対収束するなら
 
 $\sum a_{\sigma(n)}$ は絶対収束し、 $\sum a_n=\sum a_{\sigma(n)}$ となる
 
-## 補助定理
+## 補助定理 1
 $\sum a_{\sigma(n)}$ は絶対収束する。
 
  $S$ を $|a_1|,|a_2|,\dots$ の任意の有限和の全体。 $T$ を $|a_{\sigma(1)}|,|a_{\sigma(2a)}|,\dots$ の有限話の全体。
