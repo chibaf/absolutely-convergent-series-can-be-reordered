@@ -7,5 +7,14 @@ $\sum a_n,  a_n \in \mathbb{C}$ が絶対収束するなら
 
 $\sum a_{\sigma(n)}$ は絶対収束し、 $\sum a_n=\sum a_{\sigma(n)}$ となる
 
-## references 
+## 補助定理
+$\sum a_{\sigma(n)}$ は絶対収束する。
+
+$S$ を$|a_1|,|a_2|,\dots$ の任意の有限和の全体。$T$ を $|a_{\sigma(1)}|,|a_{\sigma(2a)}|,\dots$ の有限話の全体。
+
+とするとき、 $S=T$ である。
+
+故に $\sum a_n$ が絶対収束する時、 $S$ は上に有界で、 $\sup T=\sup S<\infty$
+
+## References 
 絶対収束する無限級数は和の順序を並べ替えても同じ値に収束する https://youtu.be/qKTdnL6B9oI?si=bJzkmxiLn1-7xel_ via @YouTube 
