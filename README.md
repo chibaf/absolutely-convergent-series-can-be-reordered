@@ -37,5 +37,9 @@ $B=\lbrace k \in \mathbb{N} ; k>N_1,\exists N_2 <\infty, k<N_2 \rbrace$
 
 $|\sum_{n\in B}a_n| < \epsilon$
 
+$A=\lbrace \sigma^{-1}(1), \dots ,\sigma^{-1}(N_1) \rbrace$ とおく
+
+$k>N_1,k<\max A$ なる $k$ について
+
 ## References 
 絶対収束する無限級数は和の順序を並べ替えても同じ値に収束する https://youtu.be/qKTdnL6B9oI?si=bJzkmxiLn1-7xel_ via @YouTube 
