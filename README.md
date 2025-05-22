@@ -25,5 +25,11 @@ $|\sum^p_{n=1} a_n-\sum^q_{n=1} a_n|<\epsilon$
 
 はCauchy列。
 
+特に $q=N_1$ の場合を考えると、
+
+$k>N_1$ について
+
+$|\sum^k_{n=N_1+1} a_n|<\epsilon$ 
+
 ## References 
 絶対収束する無限級数は和の順序を並べ替えても同じ値に収束する https://youtu.be/qKTdnL6B9oI?si=bJzkmxiLn1-7xel_ via @YouTube 
