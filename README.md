@@ -41,7 +41,7 @@ $A=\lbrace \sigma^{-1}(1), \dots ,\sigma^{-1}(N_1) \rbrace$ とおく
 
 $k>N_1,k<\max A$ なる $k$ について
 
-$\sum^k_{n=1} a_{\sigma(n)}=\sum_{n\in A}a_{\sigma(n)}+\sum_{n\in\lbrace 1,2,\dots k \rbrace a_{\sigma(n)}\setminus A}a_{\sigma(n)}$
+$\sum^k_{n=1} a_{\sigma(n)}=\sum_{n\in A}a_{\sigma(n)}+\sum_{n\in\lbrace 1,2,\dots k \rbrace \setminus A}a_{\sigma(n)}$
 
 ## References 
 絶対収束する無限級数は和の順序を並べ替えても同じ値に収束する https://youtu.be/qKTdnL6B9oI?si=bJzkmxiLn1-7xel_ via @YouTube 
