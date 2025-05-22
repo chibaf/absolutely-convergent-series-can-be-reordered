@@ -16,5 +16,8 @@ $\sum a_{\sigma(n)}$ は絶対収束する。
 
 故に $\sum a_n$ が絶対収束する時、 $S$ は上に有界で、 $\sup T=\sup S<\infty$
 
+## 主結果の証明
+$\sum a_n=\sum a_{\sigma(n)}$
+
 ## References 
 絶対収束する無限級数は和の順序を並べ替えても同じ値に収束する https://youtu.be/qKTdnL6B9oI?si=bJzkmxiLn1-7xel_ via @YouTube 
