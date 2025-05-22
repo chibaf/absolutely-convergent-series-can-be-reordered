@@ -19,6 +19,7 @@ $\sum a_{\sigma(n)}$ は絶対収束する。
 ## 主結果の証明
 $\sum a_n=\sum a_{\sigma(n)}$
 
+$\epsilon>0$ を任意にとる。 $\sum a_n$ は収束するから
 
 
 ## References 
