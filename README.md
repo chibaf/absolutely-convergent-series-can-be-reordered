@@ -31,7 +31,7 @@ $k>N_1$ について
 
 $|\sum^k_{n=N_1+1} a_n|<\epsilon$ 
 
-$B=\{ k \in \mathbb{N} ; k>N_1,\exists N_2 <\infty, k<N_2 \}$
+$B=\lbrace k \in \mathbb{N} ; k>N_1,\exists N_2 <\infty, k<N_2 \rbrace$
 
 ## References 
 絶対収束する無限級数は和の順序を並べ替えても同じ値に収束する https://youtu.be/qKTdnL6B9oI?si=bJzkmxiLn1-7xel_ via @YouTube 
