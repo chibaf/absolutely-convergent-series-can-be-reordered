@@ -17,7 +17,7 @@ $\sum a_{\sigma(n)}$ は絶対収束する。
 故に $\sum a_n$ が絶対収束する時、 $S$ は上に有界で、 $\sup T=\sup S<\infty$
 
 ## 主結果の証明
-$\sum a_n=\sum a_{\sigma(n)}$
+以下で $\sum a_n=\sum a_{\sigma(n)}$ を示す。
 
 $\epsilon>0$ を任意にとる。 $\sum a_n$ は収束するから
 
